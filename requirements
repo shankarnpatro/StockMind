@@ -1,0 +1,7 @@
+django==2.0.7
+Pillow==6.0.0
+djangorestframework==3.9.2
+djangorestframework-jwt==1.11.0
+mysqlclient
+django-rest-swagger
+fcm-django

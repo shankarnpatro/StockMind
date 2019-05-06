@@ -1,0 +1,95 @@
+symbol_name,buy_price,Status_code,Status_Message
+Whirlpool Corporation,16863,200,{"id":99,"symbol_name":"Whirlpool Corporation","buy_price":16863,"date":"02/05/2019","time":"11:59","target_price":10740,"achievement":"36%"}
+Polaris Industries Inc.,15453,200,{"id":100,"symbol_name":"Polaris Industries Inc.","buy_price":15453,"date":"02/05/2019","time":"11:59","target_price":12342,"achievement":"36%"}
+Blackrock Enhanced Equity Dividend Trust,13504,200,{"id":101,"symbol_name":"Blackrock Enhanced Equity Dividend Trust","buy_price":13504,"date":"02/05/2019","time":"11:59","target_price":4859,"achievement":"55%"}
+Eagle Point Credit Company Inc.,5715,200,{"id":102,"symbol_name":"Eagle Point Credit Company Inc.","buy_price":5715,"date":"02/05/2019","time":"11:59","target_price":19650,"achievement":"36%"}
+Arconic Inc.,5543,200,{"id":103,"symbol_name":"Arconic Inc.","buy_price":5543,"date":"02/05/2019","time":"11:59","target_price":19328,"achievement":"32%"}
+VictoryShares International High Div Volatility Wtd ETF,7430,200,{"id":104,"symbol_name":"VictoryShares International High Div Volatility Wtd ETF","buy_price":7430,"date":"02/05/2019","time":"11:59","target_price":15175,"achievement":"39%"}
+John Hancock Tax Advantaged Dividend Income Fund,18617,200,{"id":105,"symbol_name":"John Hancock Tax Advantaged Dividend Income Fund","buy_price":18617,"date":"02/05/2019","time":"11:59","target_price":8791,"achievement":"30%"}
+Royce Value Trust, Inc.,11405,200,{"id":106,"symbol_name":"Royce Value Trust, Inc.","buy_price":11405,"date":"02/05/2019","time":"11:59","target_price":6119,"achievement":"65%"}
+Northrim BanCorp Inc,9370,200,{"id":107,"symbol_name":"Northrim BanCorp Inc","buy_price":9370,"date":"02/05/2019","time":"11:59","target_price":14232,"achievement":"82%"}
+Dorian LPG Ltd.,17964,200,{"id":108,"symbol_name":"Dorian LPG Ltd.","buy_price":17964,"date":"02/05/2019","time":"11:59","target_price":7373,"achievement":"82%"}
+Avenue Therapeutics, Inc.,17933,200,{"id":109,"symbol_name":"Avenue Therapeutics, Inc.","buy_price":17933,"date":"02/05/2019","time":"11:59","target_price":15373,"achievement":"79%"}
+Town Sports International Holdings, Inc.,7557,200,{"id":110,"symbol_name":"Town Sports International Holdings, Inc.","buy_price":7557,"date":"02/05/2019","time":"11:59","target_price":19613,"achievement":"78%"}
+Cowen Inc.,15147,200,{"id":111,"symbol_name":"Cowen Inc.","buy_price":15147,"date":"02/05/2019","time":"11:59","target_price":19430,"achievement":"90%"}
+Urban Outfitters, Inc.,12703,200,{"id":112,"symbol_name":"Urban Outfitters, Inc.","buy_price":12703,"date":"02/05/2019","time":"11:59","target_price":14798,"achievement":"52%"}
+Willbros Group, Inc.,8787,200,{"id":113,"symbol_name":"Willbros Group, Inc.","buy_price":8787,"date":"02/05/2019","time":"11:59","target_price":10154,"achievement":"33%"}
+Citizens First Corporation,15453,200,{"id":114,"symbol_name":"Citizens First Corporation","buy_price":15453,"date":"02/05/2019","time":"11:59","target_price":4045,"achievement":"72%"}
+The Priceline Group Inc. ,7124,200,{"id":115,"symbol_name":"The Priceline Group Inc. ","buy_price":7124,"date":"02/05/2019","time":"11:59","target_price":18900,"achievement":"49%"}
+NOW Inc.,15011,200,{"id":116,"symbol_name":"NOW Inc.","buy_price":15011,"date":"02/05/2019","time":"11:59","target_price":15371,"achievement":"37%"}
+Zion Oil & Gas Inc,13553,200,{"id":117,"symbol_name":"Zion Oil & Gas Inc","buy_price":13553,"date":"02/05/2019","time":"11:59","target_price":13779,"achievement":"81%"}
+Destination Maternity Corporation,5825,200,{"id":118,"symbol_name":"Destination Maternity Corporation","buy_price":5825,"date":"02/05/2019","time":"11:59","target_price":8331,"achievement":"59%"}
+Western Alliance Bancorporation,17477,200,{"id":119,"symbol_name":"Western Alliance Bancorporation","buy_price":17477,"date":"02/05/2019","time":"11:59","target_price":18227,"achievement":"61%"}
+SBA Communications Corporation,17581,200,{"id":120,"symbol_name":"SBA Communications Corporation","buy_price":17581,"date":"02/05/2019","time":"11:59","target_price":13095,"achievement":"60%"}
+PIMCO Municipal Income Fund,14728,200,{"id":121,"symbol_name":"PIMCO Municipal Income Fund","buy_price":14728,"date":"02/05/2019","time":"11:59","target_price":15328,"achievement":"70%"}
+EPR Properties,17445,200,{"id":122,"symbol_name":"EPR Properties","buy_price":17445,"date":"02/05/2019","time":"11:59","target_price":9083,"achievement":"80%"}
+Female Health Company (The),14967,200,{"id":123,"symbol_name":"Female Health Company (The)","buy_price":14967,"date":"02/05/2019","time":"11:59","target_price":12765,"achievement":"47%"}
+BanColombia S.A.,8347,200,{"id":124,"symbol_name":"BanColombia S.A.","buy_price":8347,"date":"02/05/2019","time":"11:59","target_price":16353,"achievement":"48%"}
+Helmerich & Payne, Inc.,16523,200,{"id":125,"symbol_name":"Helmerich & Payne, Inc.","buy_price":16523,"date":"02/05/2019","time":"11:59","target_price":4501,"achievement":"53%"}
+National CineMedia, Inc.,8917,200,{"id":126,"symbol_name":"National CineMedia, Inc.","buy_price":8917,"date":"02/05/2019","time":"11:59","target_price":6439,"achievement":"71%"}
+Proofpoint, Inc.,14667,200,{"id":127,"symbol_name":"Proofpoint, Inc.","buy_price":14667,"date":"02/05/2019","time":"11:59","target_price":16353,"achievement":"56%"}
+Camden Property Trust,14662,200,{"id":128,"symbol_name":"Camden Property Trust","buy_price":14662,"date":"02/05/2019","time":"11:59","target_price":12343,"achievement":"37%"}
+Calgon Carbon Corporation,5352,200,{"id":129,"symbol_name":"Calgon Carbon Corporation","buy_price":5352,"date":"02/05/2019","time":"11:59","target_price":13323,"achievement":"62%"}
+Dean Foods Company,9538,200,{"id":130,"symbol_name":"Dean Foods Company","buy_price":9538,"date":"02/05/2019","time":"11:59","target_price":11043,"achievement":"87%"}
+National Bankshares, Inc.,11163,200,{"id":131,"symbol_name":"National Bankshares, Inc.","buy_price":11163,"date":"02/05/2019","time":"11:59","target_price":10222,"achievement":"83%"}
+Invitae Corporation,14569,200,{"id":132,"symbol_name":"Invitae Corporation","buy_price":14569,"date":"02/05/2019","time":"11:59","target_price":10875,"achievement":"55%"}
+SITO Mobile, Ltd.,10448,200,{"id":133,"symbol_name":"SITO Mobile, Ltd.","buy_price":10448,"date":"02/05/2019","time":"11:59","target_price":14794,"achievement":"48%"}
+Vina Concha Y Toro,16189,200,{"id":134,"symbol_name":"Vina Concha Y Toro","buy_price":16189,"date":"02/05/2019","time":"11:59","target_price":8751,"achievement":"47%"}
+CyberArk Software Ltd.,14147,200,{"id":135,"symbol_name":"CyberArk Software Ltd.","buy_price":14147,"date":"02/05/2019","time":"11:59","target_price":16446,"achievement":"88%"}
+China Automotive Systems, Inc.,16910,200,{"id":136,"symbol_name":"China Automotive Systems, Inc.","buy_price":16910,"date":"02/05/2019","time":"11:59","target_price":11829,"achievement":"81%"}
+Scudder Strategic Municiple Income Trust,17908,200,{"id":137,"symbol_name":"Scudder Strategic Municiple Income Trust","buy_price":17908,"date":"02/05/2019","time":"11:59","target_price":14073,"achievement":"34%"}
+Aspen Insurance Holdings Limited,6098,200,{"id":138,"symbol_name":"Aspen Insurance Holdings Limited","buy_price":6098,"date":"02/05/2019","time":"11:59","target_price":10911,"achievement":"31%"}
+CYS Investments, Inc.,7657,200,{"id":139,"symbol_name":"CYS Investments, Inc.","buy_price":7657,"date":"02/05/2019","time":"11:59","target_price":12367,"achievement":"86%"}
+Ascent Capital Group, Inc.,9926,200,{"id":140,"symbol_name":"Ascent Capital Group, Inc.","buy_price":9926,"date":"02/05/2019","time":"11:59","target_price":14772,"achievement":"70%"}
+VEON Ltd.,8865,200,{"id":141,"symbol_name":"VEON Ltd.","buy_price":8865,"date":"02/05/2019","time":"11:59","target_price":14986,"achievement":"86%"}
+Calpine Corporation,7035,200,{"id":142,"symbol_name":"Calpine Corporation","buy_price":7035,"date":"02/05/2019","time":"11:59","target_price":12542,"achievement":"84%"}
+Summit Midstream Partners, LP,17002,200,{"id":143,"symbol_name":"Summit Midstream Partners, LP","buy_price":17002,"date":"02/05/2019","time":"11:59","target_price":8830,"achievement":"53%"}
+Unifi, Inc.,5079,200,{"id":144,"symbol_name":"Unifi, Inc.","buy_price":5079,"date":"02/05/2019","time":"11:59","target_price":11293,"achievement":"31%"}
+TEGNA Inc.,7547,200,{"id":145,"symbol_name":"TEGNA Inc.","buy_price":7547,"date":"02/05/2019","time":"11:59","target_price":10660,"achievement":"86%"}
+Valero Energy Partners LP,16863,200,{"id":146,"symbol_name":"Valero Energy Partners LP","buy_price":16863,"date":"02/05/2019","time":"11:59","target_price":10740,"achievement":"36%"}
+Blackrock California Municipal 2018 Term Trust,15453,200,{"id":147,"symbol_name":"Blackrock California Municipal 2018 Term Trust","buy_price":15453,"date":"02/05/2019","time":"11:59","target_price":12342,"achievement":"36%"}
+Cardiovascular Systems, Inc.,13504,200,{"id":148,"symbol_name":"Cardiovascular Systems, Inc.","buy_price":13504,"date":"02/05/2019","time":"11:59","target_price":4859,"achievement":"55%"}
+BancorpSouth, Inc.,5715,200,{"id":149,"symbol_name":"BancorpSouth, Inc.","buy_price":5715,"date":"02/05/2019","time":"11:59","target_price":19650,"achievement":"36%"}
+Xactly Corporation,5543,200,{"id":150,"symbol_name":"Xactly Corporation","buy_price":5543,"date":"02/05/2019","time":"11:59","target_price":19328,"achievement":"32%"}
+Entergy Arkansas, Inc.,7430,200,{"id":151,"symbol_name":"Entergy Arkansas, Inc.","buy_price":7430,"date":"02/05/2019","time":"11:59","target_price":15175,"achievement":"39%"}
+Kosmos Energy Ltd.,18617,200,{"id":152,"symbol_name":"Kosmos Energy Ltd.","buy_price":18617,"date":"02/05/2019","time":"11:59","target_price":8791,"achievement":"30%"}
+GasLog LP.,11405,200,{"id":153,"symbol_name":"GasLog LP.","buy_price":11405,"date":"02/05/2019","time":"11:59","target_price":6119,"achievement":"65%"}
+AMC Networks Inc.,9370,200,{"id":154,"symbol_name":"AMC Networks Inc.","buy_price":9370,"date":"02/05/2019","time":"11:59","target_price":14232,"achievement":"82%"}
+Endeavour Silver Corporation,17964,200,{"id":155,"symbol_name":"Endeavour Silver Corporation","buy_price":17964,"date":"02/05/2019","time":"11:59","target_price":7373,"achievement":"82%"}
+First Trust Emerging Markets AlphaDEX Fund,17933,200,{"id":156,"symbol_name":"First Trust Emerging Markets AlphaDEX Fund","buy_price":17933,"date":"02/05/2019","time":"11:59","target_price":15373,"achievement":"79%"}
+Avnet, Inc.,7557,200,{"id":157,"symbol_name":"Avnet, Inc.","buy_price":7557,"date":"02/05/2019","time":"11:59","target_price":19613,"achievement":"78%"}
+Allied Healthcare Products, Inc.,15147,200,{"id":158,"symbol_name":"Allied Healthcare Products, Inc.","buy_price":15147,"date":"02/05/2019","time":"11:59","target_price":19430,"achievement":"90%"}
+Kimco Realty Corporation,12703,200,{"id":159,"symbol_name":"Kimco Realty Corporation","buy_price":12703,"date":"02/05/2019","time":"11:59","target_price":14798,"achievement":"52%"}
+Gamco Investors, Inc.,8787,200,{"id":160,"symbol_name":"Gamco Investors, Inc.","buy_price":8787,"date":"02/05/2019","time":"11:59","target_price":10154,"achievement":"33%"}
+LSI Industries Inc.,15453,200,{"id":161,"symbol_name":"LSI Industries Inc.","buy_price":15453,"date":"02/05/2019","time":"11:59","target_price":4045,"achievement":"72%"}
+iShares S&P Global Timber & Forestry Index Fund,7124,200,{"id":162,"symbol_name":"iShares S&P Global Timber & Forestry Index Fund","buy_price":7124,"date":"02/05/2019","time":"11:59","target_price":18900,"achievement":"49%"}
+LMP Capital and Income Fund Inc.,15011,200,{"id":163,"symbol_name":"LMP Capital and Income Fund Inc.","buy_price":15011,"date":"02/05/2019","time":"11:59","target_price":15371,"achievement":"37%"}
+Dynatronics Corporation,13553,200,{"id":164,"symbol_name":"Dynatronics Corporation","buy_price":13553,"date":"02/05/2019","time":"11:59","target_price":13779,"achievement":"81%"}
+Magal Security Systems Ltd.,5825,200,{"id":165,"symbol_name":"Magal Security Systems Ltd.","buy_price":5825,"date":"02/05/2019","time":"11:59","target_price":8331,"achievement":"59%"}
+HSBC Holdings plc,17477,200,{"id":166,"symbol_name":"HSBC Holdings plc","buy_price":17477,"date":"02/05/2019","time":"11:59","target_price":18227,"achievement":"61%"}
+Blackrock MuniYield Pennsylvania Quality Fund,17581,200,{"id":167,"symbol_name":"Blackrock MuniYield Pennsylvania Quality Fund","buy_price":17581,"date":"02/05/2019","time":"11:59","target_price":13095,"achievement":"60%"}
+Amdocs Limited,14728,200,{"id":168,"symbol_name":"Amdocs Limited","buy_price":14728,"date":"02/05/2019","time":"11:59","target_price":15328,"achievement":"70%"}
+Koss Corporation,17445,200,{"id":169,"symbol_name":"Koss Corporation","buy_price":17445,"date":"02/05/2019","time":"11:59","target_price":9083,"achievement":"80%"}
+Sun Communities, Inc.,14967,200,{"id":170,"symbol_name":"Sun Communities, Inc.","buy_price":14967,"date":"02/05/2019","time":"11:59","target_price":12765,"achievement":"47%"}
+Eaton vance Floating-Rate Income Plus Fund,8347,200,{"id":171,"symbol_name":"Eaton vance Floating-Rate Income Plus Fund","buy_price":8347,"date":"02/05/2019","time":"11:59","target_price":16353,"achievement":"48%"}
+Hecla Mining Company,16523,200,{"id":172,"symbol_name":"Hecla Mining Company","buy_price":16523,"date":"02/05/2019","time":"11:59","target_price":4501,"achievement":"53%"}
+ABB Ltd,8917,200,{"id":173,"symbol_name":"ABB Ltd","buy_price":8917,"date":"02/05/2019","time":"11:59","target_price":6439,"achievement":"71%"}
+Korea Equity Fund, Inc.,14667,200,{"id":174,"symbol_name":"Korea Equity Fund, Inc.","buy_price":14667,"date":"02/05/2019","time":"11:59","target_price":16353,"achievement":"56%"}
+Blackrock Muni New York Intermediate Duration Fund Inc,14662,200,{"id":175,"symbol_name":"Blackrock Muni New York Intermediate Duration Fund Inc","buy_price":14662,"date":"02/05/2019","time":"11:59","target_price":12343,"achievement":"37%"}
+Affiliated Managers Group, Inc.,5352,200,{"id":176,"symbol_name":"Affiliated Managers Group, Inc.","buy_price":5352,"date":"02/05/2019","time":"11:59","target_price":13323,"achievement":"62%"}
+Regal Beloit Corporation,9538,200,{"id":177,"symbol_name":"Regal Beloit Corporation","buy_price":9538,"date":"02/05/2019","time":"11:59","target_price":11043,"achievement":"87%"}
+Kayne Anderson Acquisition Corp.,11163,200,{"id":178,"symbol_name":"Kayne Anderson Acquisition Corp.","buy_price":11163,"date":"02/05/2019","time":"11:59","target_price":10222,"achievement":"83%"}
+Telenav, Inc.,14569,200,{"id":179,"symbol_name":"Telenav, Inc.","buy_price":14569,"date":"02/05/2019","time":"11:59","target_price":10875,"achievement":"55%"}
+Pacific Special Acquisition Corp.,10448,200,{"id":180,"symbol_name":"Pacific Special Acquisition Corp.","buy_price":10448,"date":"02/05/2019","time":"11:59","target_price":14794,"achievement":"48%"}
+Life Storage, Inc.,16189,200,{"id":181,"symbol_name":"Life Storage, Inc.","buy_price":16189,"date":"02/05/2019","time":"11:59","target_price":8751,"achievement":"47%"}
+China TechFaith Wireless Communication Technology Limited,14147,200,{"id":182,"symbol_name":"China TechFaith Wireless Communication Technology Limited","buy_price":14147,"date":"02/05/2019","time":"11:59","target_price":16446,"achievement":"88%"}
+Brandywine Realty Trust,16910,200,{"id":183,"symbol_name":"Brandywine Realty Trust","buy_price":16910,"date":"02/05/2019","time":"11:59","target_price":11829,"achievement":"81%"}
+Ralph Lauren Corporation,17908,200,{"id":184,"symbol_name":"Ralph Lauren Corporation","buy_price":17908,"date":"02/05/2019","time":"11:59","target_price":14073,"achievement":"34%"}
+Pimco Global Stocksplus & Income Fund,6098,200,{"id":185,"symbol_name":"Pimco Global Stocksplus & Income Fund","buy_price":6098,"date":"02/05/2019","time":"11:59","target_price":10911,"achievement":"31%"}
+Leju Holdings Limited,7657,200,{"id":186,"symbol_name":"Leju Holdings Limited","buy_price":7657,"date":"02/05/2019","time":"11:59","target_price":12367,"achievement":"86%"}
+The Trade Desk, Inc.,9926,200,{"id":187,"symbol_name":"The Trade Desk, Inc.","buy_price":9926,"date":"02/05/2019","time":"11:59","target_price":14772,"achievement":"70%"}
+Primero Mining Corp,8865,200,{"id":188,"symbol_name":"Primero Mining Corp","buy_price":8865,"date":"02/05/2019","time":"11:59","target_price":14986,"achievement":"86%"}
+Davis Select Financial ETF,7035,200,{"id":189,"symbol_name":"Davis Select Financial ETF","buy_price":7035,"date":"02/05/2019","time":"11:59","target_price":12542,"achievement":"84%"}
+J P Morgan Chase & Co,17002,200,{"id":190,"symbol_name":"J P Morgan Chase & Co","buy_price":17002,"date":"02/05/2019","time":"11:59","target_price":8830,"achievement":"53%"}
+Yahoo! Inc.,5079,200,{"id":191,"symbol_name":"Yahoo! Inc.","buy_price":5079,"date":"02/05/2019","time":"11:59","target_price":11293,"achievement":"31%"}
+Eastern Company (The),7547,200,{"id":192,"symbol_name":"Eastern Company (The)","buy_price":7547,"date":"02/05/2019","time":"11:59","target_price":10660,"achievement":"86%"}
